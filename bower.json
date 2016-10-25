@@ -1,0 +1,22 @@
+{
+  "name": "linkurious",
+  "description": "A Javascript toolkit to speed up the development of graph visualization and interaction applications.",
+  "main": "dist/sigma.require.js",
+  "authors": [
+    "llp0574 <563179705@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sigma",
+    "linkurious"
+  ],
+  "homepage": "https://github.com/llp0574/linkurious.js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
